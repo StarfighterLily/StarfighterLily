@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StarfighterLily
 - 👀 I’m interested in coding, gaming, hacking, and cooking.
-- 🌱 I’m currently learning ESP32 development
-- 💞️ I’m looking to collaborate on TTGO T-Watch2020v3
+- 🌱 I’m currently learning ComfyUI and working on custom nodes
 - 📫 How to reach me? Email! havokofthelilies[at]gmail[dot]com
 
 <!---
